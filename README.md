@@ -1,6 +1,6 @@
 ![Web Developer](https://scontent.fdac19-1.fna.fbcdn.net/v/t1.6435-1/76933388_2425804231001765_2973623467833819136_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeEnLp9MaKRPgAfsUUSJiNQtnQDwpLngLJmdAPCkueAsmfuklluA_mGFNHljRB5qFn1xphiKjrM-OVMr4NP2-c9f&_nc_ohc=thMndnKkKasQ7kNvwESDCy2&_nc_oc=Adk6h4YyS_GfZITt0TXHIDB787C8cZ5hJx1viCeN5_ioIZf4u-Cs84wQrXJ5gZKzcpk&_nc_zt=24&_nc_ht=scontent.fdac19-1.fna&_nc_gid=BpksrQDzxuAZF-Ys6MqERA&oh=00_AfOCqhWuUYrbbjfqBm7i_xHzphxxE-RXysCMoMohZ8AJow&oe=6886708D)
 
-# Hi there 👋, I`m Abdul Hamid
+# Hi there 👋
 ## Web Developer
 
 
